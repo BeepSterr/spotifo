@@ -11,4 +11,5 @@ You cannot see your own "Playing" status set via this, Discord does not send thi
 
 ### How to use:
 1. Download and extract.
-2. Use *run.bat* **OR** run *npm install* and then *node spotifo*
+2. edit config.json with tour user token
+3. Use *run.bat* **OR** run *npm install* and then *node spotifo*
