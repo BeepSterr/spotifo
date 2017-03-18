@@ -1,0 +1,16 @@
+{
+  "name": "discordxspotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spotifo.js",
+  "dependencies": {
+    "discord.io": "^2.5.1",
+    "node-spotify-webhelper": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
